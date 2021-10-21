@@ -21,10 +21,6 @@
     "test:reporter": "tap-mocha-reporter xunit < out.tap > junit-testresults.xml",
     "coverage": "tap --cov --coverage-report=html test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alemagio/graphql-type-object-id.git"
-  },
   "keywords": [],
   "bugs": {
     "url": "https://github.com/alemagio/graphql-type-object-id/issues"
