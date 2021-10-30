@@ -1,6 +1,6 @@
 {
   "name": "@alichry/graphql-type-object-id",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A graphql scalar type for MongoDB ObjectId.",
   "main": "./dist",
   "types": "./dist",
